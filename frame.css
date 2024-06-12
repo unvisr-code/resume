@@ -37,7 +37,8 @@ h3 {
   color: #ffb300;
   margin: 10px 0;
   text-transform: lowercase;
-  font-size: 1.25em;
+  font-size: 1.5em;
+  /* text-align: center; */
 }
 
 .resume {
@@ -127,7 +128,7 @@ h3 {
 .resume .base .profile .info .job {
   margin-top: 10px;
   margin-bottom: 0;
-  font-size: 1.5em;
+  font-size: 1.0em;
   text-transform: lowercase;
   color: #283593;
 }
